@@ -1,4 +1,4 @@
 ## Data Analytics with R
 On this site you find material for the course Data Analytics with R, lectured at THUAS.
 
-[handout1](https://github.com/JHvdZ/DAwR.github.io/blob/master/test.md)
+[handout1](https://github.com/JHvdZ/DAwR.github.io/outline01.html)
